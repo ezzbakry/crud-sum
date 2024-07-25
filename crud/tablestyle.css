@@ -1,0 +1,68 @@
+
+
+#btn1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.card{
+    border: solid black 3px;
+    width: 22%;
+    height: 22%;
+    padding: 10px;
+    float: left;
+    margin: 7px;
+}
+section div img{
+    width: 100px;
+    height: 100px;
+}
+.clear{
+    clear: left;
+}
+
+
+#searchhtxt{
+    width: 50%;
+    height: 10vh;
+    margin-right: 20px;
+}
+#searchhtxt:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.search{
+    position: relative;
+    left: 120px;
+
+}
+#searchbtn{
+    width: 10%;
+}
+.page{
+    display: flex;
+    position: relative;
+}
+.table{
+    margin: 20px;
+
+}
+.form-employee{
+    margin: auto;
+    bottom: 0;
+    padding: 100px;
+    justify-content: center;
+    width: 70vw;
+    right: 0;
+    
+}
+#add{
+    float: left;
+}
+#FORM{
+    
+    margin:80px ;
+    padding-right: 50px;
+    width: 40vw;
+
+}
+
